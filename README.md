@@ -8,4 +8,4 @@
 - **project-updateMe** - исходники демо проекта
 - **demo** - собственно демонстрация, запускаем <strong>UpdateMe.jar</strong>
 
-**Подробности в статье [https://tssaltan.ru/1531.develnext-updater/](https://tssaltan.ru/1531.develnext-updater/)**
+**Подробности в статье [https://tssaltan.top/1531.develnext-updater/](https://tssaltan.top/1531.develnext-updater/)**
